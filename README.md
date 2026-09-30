@@ -54,7 +54,7 @@ If this work is helpful for your research, please cite RecGaze. The BibTeX entry
 ```bibtex
 @article{recgaze,
   title   = {RecGaze: Learning Reciprocity Relationship for Efficient Gaze Following via Integrative Scenario Modeling},
-  journal = {IEEE Transactions on Circuits and Systems for Video Technology},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
   year    = {2026},
 }
 ```
